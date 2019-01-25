@@ -13,11 +13,11 @@ console.log("while loop\n");
 for (var list = 0; list < ingredients.length; list++) {
     console.log(ingredients[list]);
 }
-console.log("For loop\n");
+console.log("for loop\n");
 
 // Write any loop (while or for) that prints out the contents of ingredients backwards:
 for (var i = ingredients.length - 1; i >= 0; i--) {
     console.log(ingredients[i]);
 }
-console.log("For loop backwards");
+console.log("list printed backwards");
 
